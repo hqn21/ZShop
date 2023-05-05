@@ -1,0 +1,8 @@
+name: ZShop
+main: nukkit.ZShop.ZShop
+version: "1.0.0"
+api: ["1.0.0"]
+commands:
+  zs:
+    description: "介面商店指令"
+    usage: "/zs help"
